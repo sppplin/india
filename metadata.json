@@ -1,0 +1,6 @@
+{
+  "name": "YUKON INDIA",
+  "description": "Premium laboratory solutions, glassware, plasticware, and scientific instruments by YUKON INDIA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
